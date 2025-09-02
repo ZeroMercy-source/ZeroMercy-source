@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ZeroMercy-source/ZeroMercy-source">
-    <img src="downloads/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Welcome</h3>
