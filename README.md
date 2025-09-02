@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ZeroMercy-source/ZeroMercy-source">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Welcome</h3>
@@ -16,8 +16,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## ACCTMIS 4630 - Business System Application Development
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 Below is all Labs and Excercise for the class
