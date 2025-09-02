@@ -1,16 +1,37 @@
-## Hi there 👋
+<a id="readme-top"></a>
+<br />
+<div align="center">
+  <a href="https://github.com/ZeroMercy-source/ZeroMercy-source">
+    <img src="downloads/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-<!--
-**ZeroMercy-source/ZeroMercy-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">Welcome</h3>
 
-Here are some ideas to get you started:
+  <p align="center">
+    I'm Hassan Dirie a Senior at The Ohio State University Majoring in Information Systems
+   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- ABOUT THE PROJECT -->
+## ACCTMIS 4630 - Business System Application Development
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
+Below is all Labs and Excercise for the class
+
+
+<!-- TABLE OF CONTENTS -->
+
+  <h3>Table of Contents</h3>
+  <ol>
+    <li><a href="https://github.com/ZeroMercy-source/React-Tutorial">React Tutorial for Exercise 1</li>
+    <li><a href="https://github.com/ZeroMercy-source/.NET-Tutorial-">.Net Tutorial for Excercise 1</a</li>
+    <li><a href="https://github.com/ZeroMercy-source/skills-introduction-to-github">Introduction to GithHub for Excercise 2</a></li>
+  </ol>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
