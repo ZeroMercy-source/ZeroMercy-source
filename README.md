@@ -1,21 +1,3 @@
-<a id="readme-top"></a>
-<br />
-<div align="center">
-  <a href="https://github.com/ZeroMercy-source/ZeroMercy-source">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
-  </a>
-
-  <h3 align="center">Welcome!</h3>
-
-  <p align="center">
-    I'm Hassan Dirie a Senior at The Ohio State University Majoring in Information Systems
-   
-</div>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## ACCTMIS 4630 - Business System Application Development
 
 
 Below is all Labs and Excercise for the class
