@@ -7,9 +7,7 @@ My Work
 
   <h3>Table of Contents</h3>
   <ol>
-    <li><a href="https://github.com/ZeroMercy-source/React-Tutorial">React Tutorial for Exercise 1</li>
-    <li><a href="https://github.com/ZeroMercy-source/.NET-Tutorial-">.Net Tutorial for Excercise 1</a</li>
-    <li><a href="https://github.com/ZeroMercy-source/skills-introduction-to-github">Introduction to GithHub for Excercise 2</a></li>
+    <li><a href="https://github.com/ZeroMercy-source/PMS">React Tutorial for Exercise 1</li>
   </ol>
 
 
